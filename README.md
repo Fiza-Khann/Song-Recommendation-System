@@ -31,3 +31,8 @@ The dataset specifications are as follows:
 •	Total Samples: 35,887 images.
 •	Image Format: All images are standardized to 48x48 pixel grayscale.
 Data Split: The dataset is pre-partitioned into a dedicated Training Set (28,709 images) and a Testing Set (3,589 images).
+
+<img width="218" height="315" alt="image" src="https://github.com/user-attachments/assets/cf024106-40b2-488a-b560-2be745fb7a92" />
+<img width="215" height="307" alt="image" src="https://github.com/user-attachments/assets/2e923177-6c14-434a-8431-ee2e0927b453" />
+<img width="246" height="245" alt="image" src="https://github.com/user-attachments/assets/1ebafe82-93b8-4dea-9fd4-52d96af068c9" />
+<img width="278" height="229" alt="image" src="https://github.com/user-attachments/assets/e525d90a-08f2-4e5e-ab7b-aff3e6b26832" />
